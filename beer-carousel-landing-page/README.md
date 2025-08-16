@@ -11,3 +11,4 @@ This is a **UI/UX practice project** I created while following a YouTube tutoria
 ## ℹ️ Notes
 - This design was created as part of my **UI/UX learning journey**.  
 - Tutorial credit: [YouTube Tutorial](https://youtu.be/X811mJhefJI?si=QQ4Vwjqs7a1d5Xdq)
+- View Live Prototype : [https://www.figma.com/design/G20SO2ZByvvhrnJqlzoZLI/Untitled?node-id=0-1&t=7MNSTnX4SlO1CpV4-1]
