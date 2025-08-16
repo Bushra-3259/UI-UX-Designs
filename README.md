@@ -9,6 +9,6 @@ Each project has its own folder with screenshots and details.
 
 ## ✨ About This Repo
 I’m currently learning **UI/UX design** step by step.  
-Some projects are made by following tutorials (with credits given),  
+Some projects are made from tutorials,  
 and others are my own original designs.  
 This repo will grow as I improve. 
