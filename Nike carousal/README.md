@@ -16,3 +16,6 @@ Tutorial credit: [YouTube Tutorial](https://youtu.be/qwc_tC_QGvk)
 
 ## View Live Prototype : 
 [https://www.figma.com/proto/OoryfHe0w4wJpdcmbpgV12/Untitled?t=VJiSm4eG9bxRnUnK-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2]
+
+## 📹 Project Demo Video:  
+[Your Video Link Here](https://www.awesomescreenshot.com/video/43496902?key=d71c72baaf8ab06e0faae23436419969)
