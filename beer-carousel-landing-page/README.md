@@ -6,7 +6,10 @@ This is a **UI/UX practice project** I created while following a YouTube tutoria
 
 ## 🛠 Tools Used
 - **Figma** 🎨
-  
+
+## ✨ Interaction
+- Scrolling **upwards (↓ to ↑)** shows the **next beer image**.  
+- Scrolling **downwards (↑ to ↓)** shows the **previous beer image**.
 
 ## ℹ️ Notes
 - This design was created as part of my **UI/UX learning journey**.  
