@@ -12,6 +12,7 @@ Clicking on a colored dot reveals its respective Nike shoe.
 ## ℹ️ Notes
 This design was created as part of my UI/UX learning journey.  
 Inspired by modern e-commerce product showcase layouts.  
+Tutorial credit: [YouTube Tutorial](https://youtu.be/qwc_tC_QGvk)
 
 ## View Live Prototype : 
 [https://www.figma.com/proto/OoryfHe0w4wJpdcmbpgV12/Untitled?t=VJiSm4eG9bxRnUnK-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2]
